@@ -1,0 +1,8 @@
+CORE RULES (LOCKED)
+
+- Core = exactly 100 colors
+- Source = workshop/colors/
+- No new colors allowed after Core is locked
+- Drafts may use max 2 Core colors
+- Workspace cannot publish
+- Workspace cannot modify Core
